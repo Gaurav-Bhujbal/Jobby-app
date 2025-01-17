@@ -1,0 +1,22 @@
+.header-bg-container {
+  height: 10vh;
+  background-color: #2c364c;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.header-web-logo {
+  height: 30px;
+}
+.header-link-container {
+  display: flex;
+  color: white;
+  list-style: none;
+}
+.li {
+  margin: 10px;
+}
+.header-link {
+  text-decoration: none;
+  color: white;
+}

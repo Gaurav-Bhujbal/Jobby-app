@@ -1,0 +1,41 @@
+.job-item-bg-container {
+  background-color: black;
+}
+.head {
+  color: white;
+}
+.JobItem-container {
+  color: white;
+  padding: 20px;
+}
+.job-item-visit-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.skill-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.job-item-skill {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 40%;
+}
+.skill-img {
+  width: 50px;
+}
+.life-img {
+  width: 100%;
+  margin-top: 10px;
+}
+.Similar-job-container {
+  margin-top: 20px;
+}
+.skill {
+  margin-top: 20px;
+}

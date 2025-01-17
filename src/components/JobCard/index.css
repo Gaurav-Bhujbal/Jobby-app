@@ -1,0 +1,38 @@
+.job-card {
+  border-radius: 10px;
+  background-color: #121212;
+  list-style: none;
+  padding: 20px;
+  margin-top: 10px;
+}
+.star {
+  color: #fbbf24;
+}
+.job-card-logo {
+  width: 50px;
+  margin-right: 10px;
+}
+.job-card-header {
+  display: flex;
+}
+.job-card-location-container {
+  display: flex;
+}
+.JobCard-package-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.JobCard-location {
+  margin-right: 10px;
+}
+.JobCard-Description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.job-card-link {
+  text-decoration: none;
+  color: white;
+}
